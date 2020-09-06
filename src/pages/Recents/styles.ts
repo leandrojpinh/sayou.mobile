@@ -8,7 +8,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#008BC9',
     padding: 18,
     paddingBottom: 5,
-    paddingTop: 15
+    paddingTop: 15,
+    borderBottomEndRadius: 10,
+    borderBottomStartRadius: 10
   },
   searchHeader: {
     flexDirection: 'row',

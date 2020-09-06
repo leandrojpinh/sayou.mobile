@@ -12,7 +12,7 @@ export default function Recents() {
     <View style={styles.container}>
       <View style={styles.search}>
         <View style={styles.searchHeader}>
-          <Text style={styles.searhTitle}>Recents</Text>
+          <Text style={styles.searhTitle}>Recentes</Text>
           <Feather name='bell' color='#FCFCFC' size={20} />
         </View>
         <TextInput
