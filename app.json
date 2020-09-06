@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sayou.mobile",
-    "slug": "sayou.mobile",
+    "slug": "sayoumobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
